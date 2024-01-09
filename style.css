@@ -126,7 +126,7 @@ span{
   margin-left: 30px;
   width: 1320px;
   height: 1300px;
-  background-color: antiquewhite;
+  background-color: white;
 }
 
 div.gift h6  {
@@ -156,6 +156,7 @@ div.gift p{
 .gift-images{
 
   display: flex;
+  gap: 20px;
 
 }
 .gift-images div{
@@ -164,7 +165,46 @@ div.gift p{
 
 .next-images{
   display: flex;
+  gap: 20px;
 }
 .next-images div{
   min-width: 5px;
+}
+
+
+
+.subscribe{
+  padding-top: 150px;
+  margin-top: 40px;
+  width: 1320px;
+  height: 616px;
+  flex-shrink: 0;
+  background-color: antiquewhite;
+  margin-left: 30px;
+  text-align:  center;
+}
+
+div .subscribe p{
+  text-align: center;
+}
+
+
+form button {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  padding: 15px 30px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #d54e21;
+}
+
+form input {
+  border-radius: 50px;
+  padding: 15px;
+  border: 1px solid #ccc; 
 }
