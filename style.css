@@ -177,7 +177,7 @@ div.gift p{
   padding-top: 150px;
   margin-top: 40px;
   width: 1320px;
-  height: 616px;
+  height: 416px;
   flex-shrink: 0;
   background-color: antiquewhite;
   margin-left: 30px;
@@ -186,6 +186,8 @@ div.gift p{
 
 div .subscribe p{
   text-align: center;
+  font-weight: 400;
+
 }
 
 
@@ -208,3 +210,24 @@ form input {
   padding: 15px;
   border: 1px solid #ccc; 
 }
+
+
+
+/* bottom style */
+
+.last-item{
+  width: 1600px;
+  height: 609px;
+  background-color: #070211;
+  margin-right: 0px;
+  
+}
+
+
+div .last-item address{
+  color: white;
+  padding-top: 120px;
+  font-size: 24px;
+  margin-left: 50px;
+}
+
