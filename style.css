@@ -231,3 +231,12 @@ div .last-item address{
   margin-left: 50px;
 }
 
+.socile-media{
+  display:flex;
+  gap:10px;
+  align-items: center;
+  padding: 100px 708px 247px 708px;
+  
+}
+
+
