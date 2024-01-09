@@ -1,0 +1,170 @@
+/* hadding section style */
+.banner{
+  
+  background: linear-gradient(180deg, #070211 0%, rgba(183, 182, 185, 0) 100%);
+  background-image: url(./resources/Banner\ Image.png);
+  
+  
+  width: 1320px;
+  height: 600px;
+  
+  align-items: center;
+  margin: 20px  90px;
+  opacity: 40px;
+}
+
+.title{
+  text-align: center;
+  font-size: 32px;
+  color: #Fff;
+  font-weight: 400;
+  padding: 50px;
+  
+}
+
+.text{
+  text-align: center;
+  font-size: 72px;
+  color: #Fff;
+  font-weight: 900;
+  padding: 3px;
+
+}
+
+
+/* main section style */
+.OFF{
+  margin: auto;
+
+  text-align: center;
+  color: red;
+  padding: 120px;
+  font-size: 95px;
+}
+
+.text2{
+  font-size: 24px;
+}
+.text3{
+  font-size: 40px;
+  color: black;
+}
+
+.welcome-banner{
+  background-image: url(./resources/Vectorrr.png);
+  width: 1320px;
+  height: 600px;
+  align-items: center;
+  margin: 20px  30px;
+}
+
+.welcome-title{
+   color: #FFF;
+font-size: 64px;
+font-weight: 900;
+padding:126px 552px 1px 126px;
+
+}
+p{
+  color: #FFF;
+
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+padding:8px 497px 20px 126px;
+}
+
+
+ .join-button{
+  border-radius: 5px;
+    background: #FD6E0A;
+    border:0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 35px ;
+    margin-left:145px ; 
+}
+ 
+
+ .date-time{
+  width: 1320px;
+height: 482px;
+flex-shrink: 0;
+background-color: antiquewhite;
+padding-top: 120px;
+text-align: center;
+margin-left: 30px;
+}
+
+div .date-time p{
+  color: black;
+  font-size: 40px;
+  font-style: bold;
+}
+
+span{
+  color: red;
+}
+
+.join{
+  border-radius: 5px;
+    background: #FD6E0A;
+    border:0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 35px ;
+    margin-right:250px ; 
+}
+
+
+
+
+.gift{
+  margin-top: 20px;
+  margin-left: 30px;
+  width: 1320px;
+  height: 1300px;
+  background-color: antiquewhite;
+}
+
+div.gift h6  {
+  padding-top:4px ;
+  color: red;
+  font-size: 30px;
+
+}
+
+div .gift h4{
+  font-size: 60px;
+
+}
+div.gift p{
+  width: 896px;
+  color: rgb(5, 2, 2);
+  font-size: 20px;
+  display: block;
+
+  
+
+}
+
+
+
+
+.gift-images{
+
+  display: flex;
+
+}
+.gift-images div{
+  min-width: 5px;
+}
+
+.next-images{
+  display: flex;
+}
+.next-images div{
+  min-width: 5px;
+}
